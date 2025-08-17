@@ -132,7 +132,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For support or inquiries, reach out via the [Contact Page](bhavubhoi806@gmail.com) or email `support@tailwindui.com`.
+For support or inquiries, reach out via the `bhavubhoi806@gmail.com`.
 
 ---
 
