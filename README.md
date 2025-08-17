@@ -136,4 +136,4 @@ For support or inquiries, reach out via the [Contact Page](http://localhost:5173
 
 ---
 
-Built with 🚀 by [Bhavesh Bhoi] for the Componix UI, 2025.
+Built with 🚀 by [Bhavesh Bhoi](https://developer-bhavesh.netlify.app/) for the Componix UI, 2025.
