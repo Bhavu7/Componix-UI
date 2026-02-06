@@ -76,8 +76,10 @@ npm run preview
 Componix-UI/
 ├── public/                    # Static assets
 ├── src/
+│   ├── assets/                # Static assets imported in code
 │   ├── components/            # Reusable components (Navbar, Footer, Hero, etc.)
 │   │   ├── ComponentCard.jsx
+│   │   ├── ContactForm.jsx
 │   │   ├── FeatureCard.jsx
 │   │   ├── Footer.jsx
 │   │   ├── Hero.jsx
@@ -95,7 +97,7 @@ Componix-UI/
 │   │   └── SignUp.jsx
 │   ├── App.jsx                # Main app with routing
 │   ├── index.css              # Global styles with Tailwind CSS
-│   └── index.jsx              # Entry point for React
+│   └── main.jsx               # Entry point for React
 ├── vite.config.js             # Vite configuration
 ├── package.json               # Project dependencies and scripts
 └── README.md                  # Project documentation
